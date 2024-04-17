@@ -1,0 +1,34 @@
+
+/* .card-text-center{
+    background-color: aqua;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+} */
+.why {
+    background-color: rgb(220, 220, 220);
+}
+
+.login-form{
+    display: flex;
+}
+.navbar-brand-local{
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.card-text-center{
+    background-color: white;
+    margin: 10px;
+}
+.melon-image{
+    height: 300px;
+    width: 300px;
+    /* border-radius: 20px; */
+}
+
+#melon-list{
+    display: flex;
+    flex-wrap: wrap;
+}
